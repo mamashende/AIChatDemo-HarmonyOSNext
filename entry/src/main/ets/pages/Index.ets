@@ -1,6 +1,6 @@
 import {  promptAction } from '@kit.ArkUI';
 import {Message} from "../common/entities/Message"
-
+import Constants from "../common/constants/ConstantsDev"
 import {makeChat} from "../api/OpenAIChat"
 
 /**
@@ -113,8 +113,8 @@ export struct MainPage {
     this.messages.push({ role: 'assistant', context: 'Waiting for response.....' })
     let index = 0;
 
-    let reply = await makeChat({model:"qwen-plus"},this.MessageList);
-
+    let reply = await makeChat({model:Constants.MODEL},this.MessageList);
+    this.MessageList.push(reply);
 
     this.typer(index, reply.content)
 

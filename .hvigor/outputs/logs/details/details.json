@@ -6,8 +6,7 @@
         "API_TYPE": "stageMode"
       }
     ],
-    "BUILD_MODE": "debug",
-    "USE_NORMALIZED_OHMURL": true
+    "BUILD_MODE": "debug"
   },
   "HVIGOR": {
     "IS_INCREMENTAL": true,
@@ -16,30 +15,23 @@
     "IS_HVIGORFILE_TYPE_CHECK": false,
     "TASK_TIME": {
       "1043bfc77febe75fafec0c4309faccf1": {
-        "init": 645400,
-        "PreBuild": 172294200,
-        "MergeProfile": 24865900,
-        "CreateBuildProfile": 4919200,
-        "PreCheckSyscap": 462000,
-        "GeneratePkgContextInfo": 2496800,
-        "ProcessProfile": 102241600,
-        "ProcessRouterMap": 16217600,
-        "PreviewProcessResource": 9252000,
-        "GenerateLoaderJson": 35852200,
-        "PreviewCompileResource": 269669700,
-        "PreviewHookCompileResource": 463500,
-        "CopyPreviewProfile": 13703400,
-        "ReplacePreviewerPage": 953400,
-        "buildPreviewerResource": 442600,
-        "PreviewUpdateAssets": 3807000,
-        "PreviewArkTS": 10333964700,
-        "PreviewBuild": 300200
+        "init": 626300,
+        "PreCheckSyscap": 480000,
+        "PreviewProcessResource": 5496300,
+        "PreviewCompileResource": 255038400,
+        "PreviewHookCompileResource": 270700,
+        "CopyPreviewProfile": 7875400,
+        "ReplacePreviewerPage": 463700,
+        "buildPreviewerResource": 308300,
+        "PreviewUpdateAssets": 4121100,
+        "PreviewArkTS": 8961080600,
+        "PreviewBuild": 645300
       },
       "APP": {
-        "init": 296900
+        "init": 322500
       }
     },
-    "BUILD_ID": "202502281447413100",
-    "TOTAL_TIME": 11426077700
+    "BUILD_ID": "202502281502546270",
+    "TOTAL_TIME": 9619360400
   }
 }

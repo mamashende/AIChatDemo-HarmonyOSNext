@@ -11,4 +11,6 @@ export default class Constants {
    * API key
    */
   static readonly API_KEY : string = ''
+
+  static readonly MODEL : string = ''
 }
