@@ -1,7 +1,9 @@
 ## 项目简介
 这是基于ArkUI且遵循openai-api接口规范的对话应用Demo
+
 也就是说这个Demo能够支持大部分大模型提供方的api，只要api支持openai-api接口规范
 
+操作效果图如下:
 ![img](https://img2023.cnblogs.com/blog/3416663/202502/3416663-20250210163326062-605433814.gif)
 
 
