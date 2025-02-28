@@ -27,6 +27,10 @@
 
 其中会话管理以及对话记录存储组件已经实现了一部分，但是由于技术上的困难，还需要继续完善，因此未来完善后会将功能合并入此仓库。
 
+此项目的开发仓库连接:https://github.com/mamashende/AIChatDemo-HarmonyOSNext-dev/
+
+如果感兴趣，欢迎star以及fork支持此项目:)
+
 ## 如何构建
 1.拉取本项目
 
